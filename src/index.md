@@ -14,5 +14,4 @@ Thanks for reading — hope you’re excited to try Eleventy!
  {% endfor %}
 
  ## The Cat Pic
-
  ![the cat]({{ catPic }})

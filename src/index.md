@@ -6,7 +6,6 @@ layout: base.njk
 Thanks for reading — hope you’re excited to try Eleventy!
 
 ## The Pages
-
  The following are Pages of site
 
  {% for page in collections.pages %}
